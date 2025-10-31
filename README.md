@@ -7,7 +7,6 @@ Currently learning **Java** and **Spring Boot**. I'm always open to learning new
 ## 🚀 What I'm Up To
 
 - 💻 Building Spring Boot applications with **PostgreSQL** & **MongoDB**  
-- 🌱 Learning and improving every day  
 - 💡 Open to new technologies and collaboration  
 
 ## 🎓 About Me

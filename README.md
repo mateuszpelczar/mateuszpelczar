@@ -1,16 +1,20 @@
-## Hi there 👋
+💫 About Me:
+I am a fourth-year computer science student at Państwowa Akademia Nauk Stosowanych who passionate about programming. Currently learning Java and Spring Boot. I'm always open to learning new technologies.
 
-<!--
-**mateuszpelczar/mateuszpelczar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 What I'm Up To
+🚀 Building Spring Boot apps with PostgreSQL & MongoDB
+🌱 Learning and improving every day
+💡 Open to new technologies and collaboration
 
-Here are some ideas to get you started:
+🎓 About Me
+⚽ I’m passionate about football and running, and I enjoy learning foreign languages in my free time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Connect with me:
+LinkedIn
+
+💻 Tech Stack:
+Languages:  Java SQL HTML5 CSS JavaScript C# SQL
+
+Developer Tools: Postman  Git Trello Docker
+
+Libraries/Frameworks:  ReactJS PostgreSQL Spring Boot 

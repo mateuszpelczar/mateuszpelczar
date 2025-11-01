@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Mateusz Pelczar</h1>
 
 # 💫 About Me:
-I am a fourth-year computer science student at the Państwowa Akademia Nauk Stosowanych w Krośnie, passionate about programming.  
+I am a fourth-year computer science student at the Państwowa Akademia Nauk Stosowanych in Krosno, passionate about programming.  
 Currently learning **Java** and **Spring Boot**. I'm always open to learning new technologies and improving my skills.
 
 ## 🚀 What I'm Up To

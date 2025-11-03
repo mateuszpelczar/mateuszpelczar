@@ -10,7 +10,7 @@ Currently learning **Java** and **Spring Boot**. I'm always open to learning new
 - 💡 Open to new technologies and collaboration  
 
 ## 🎓 About Me
-⚽ I’m passionate about football and running, and I enjoy learning foreign languages in my free time.  
+⚽ I’m passionate about football and running. In my free time I enjoy learning foreign languages.  
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateusz-pelczar-639b8224b/)

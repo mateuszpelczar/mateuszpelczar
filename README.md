@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 I am a fourth-year computer science student at the Państwowa Akademia Nauk Stosowanych in Krosno, passionate about programming.  
-Currently learning **Java** and **Spring Boot**. I'm always open to learning new technologies and improving my skills.
+Currently learning **Java** and **Spring Boot**. I'm  open to learning new technologies and improving my skills.
 
 ## 🚀 What I'm Up To
 

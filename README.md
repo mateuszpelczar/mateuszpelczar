@@ -2,11 +2,11 @@
 
 # 💫 About Me:
 I am a fourth-year computer science student at the Państwowa Akademia Nauk Stosowanych in Krosno, passionate about programming.  
-Currently learning **Java** and **Spring Boot**. I'm  open to learning new technologies and improving my skills.
+Currently learning and improving my programming skills in various technologies. I'm  open to learning new technologies and improving my skills.
 
 ## 🚀 What I'm Up To
 
-- 💻 Building Spring Boot applications with **PostgreSQL** & **MongoDB**  
+- 💻 Developing backend and full-stack applications with various frameworks and databases.
 - 💡 Open to new technologies and collaboration  
 
 ## 🎓 About Me
@@ -33,5 +33,7 @@ Currently learning **Java** and **Spring Boot**. I'm  open to learning new techn
 **Libraries / Frameworks:**  
 ![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+

@@ -1,16 +1,14 @@
 <h1 align="center">Hi 👋 I'm Mateusz Pelczar</h1>
 
 # 💫 About Me:
-I am a fourth-year computer science student at the Państwowa Akademia Nauk Stosowanych in Krosno, passionate about programming.  
-Currently learning and improving my programming skills in various technologies. I'm  open to learning new technologies and improving my skills.
+I am a fourth-year Computer Science student at the Państwowa Akademia Nauk Stosowanych in Krosno, passionate about creating web applications.
 
 ## 🚀 What I'm Up To
-
-- 💻 Developing backend and full-stack applications with various frameworks and databases.
-- 💡 Open to new technologies and collaboration  
+- 💻 Currently focusing on developing web applications using **Java Spring Boot** and **React**, with **PostgreSQL** and **MongoDB** as databases.  
+- 💡 Open to learning new technologies and collaborating on innovative projects.  
 
 ## 🎓 About Me
-⚽ I’m passionate about football and running. In my free time I enjoy learning foreign languages.  
+⚽ I’m passionate about football and running. In my free time, I enjoy learning foreign languages.  
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateusz-pelczar-639b8224b/)
@@ -34,6 +32,4 @@ Currently learning and improving my programming skills in various technologies. 
 ![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white).
-
-
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)

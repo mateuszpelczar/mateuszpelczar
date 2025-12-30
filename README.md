@@ -69,6 +69,4 @@ I enjoy building full-stack applications using modern technologies and learning 
 ## 📫 Contact
 📧 LinkedIn: [Mateusz Pelczar](https://www.linkedin.com/in/mateusz-pelczar-639b8224b/)
 
----
 
-⭐ *Feel free to check out my repositories and leave a star if you like something!*

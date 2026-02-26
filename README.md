@@ -21,7 +21,6 @@ I enjoy building **full-stack web applications** and learning modern technologie
 
 ### 👨‍💻 Programming Languages
 <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> 
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> 
 <img src="https://img.shields.io/badge/SQL-07405E?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -29,8 +28,7 @@ I enjoy building **full-stack web applications** and learning modern technologie
 ### 🧩 Frameworks & Libraries
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 <img src="https://img.shields.io/badge/ASP.NET_Core_Web_API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" />
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+
 
 ### 🗄️ Databases
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -44,7 +42,7 @@ I enjoy building **full-stack web applications** and learning modern technologie
 ---
 
 ## 📌 Currently Focusing On
-- Full-stack applications (**Angular + ASP.NET Core Web API / Spring Boot**)  
+- Full-stack applications (**Angular + ASP.NET Core Web API**)  
 - REST APIs & JWT authentication  
 - Writing clean and maintainable code
 

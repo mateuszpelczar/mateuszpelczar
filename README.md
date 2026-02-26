@@ -1,5 +1,4 @@
 <h1 align="center">👋 Hi, I'm Mateusz Pelczar</h1>
-<h3 align="center">Computer Science Student</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mateusz-pelczar-639b8224b/">
@@ -9,8 +8,7 @@
 
 ---
 
-## 🚀 About Me
-🎓 Fourth-year **Computer Science student** at the *Państwowa Akademia Nauk Stosowanych in Krosno*  
+## 🚀 About Me 
 💻 Passionate about **web application development** 
 ⚽ Football & 🏃 running enthusiast  
 🌍 Interested in **foreign languages** and continuous self-development  

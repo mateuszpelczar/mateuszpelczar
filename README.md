@@ -22,6 +22,7 @@ I enjoy building **full-stack web applications** and learning modern technologie
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> 
 <img src="https://img.shields.io/badge/SQL-07405E?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
 
 ### 🧩 Frameworks & Libraries

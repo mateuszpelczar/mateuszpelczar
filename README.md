@@ -8,10 +8,10 @@
 ---
 
 ##  About Me 
- **B.Eng. in Computer Science** (Graduated Feb 2026)
- Passionate about building **full-stack web applications** and solving complex technical problems
- Interested in **system architecture**, foreign languages, and continuous self-development
- In my free time, a football & running enthusiast
+ <p>**B.Eng. in Computer Science** (Graduated Feb 2026)</p>
+ <p>Passionate about building **full-stack web applications** and solving complex technical problems</p>
+ <p>Interested in **system architecture**, foreign languages, and continuous self-development</p>
+ <p>In my free time, a football & running enthusiast></p>
  
 
 ---
